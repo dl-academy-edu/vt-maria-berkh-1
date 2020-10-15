@@ -1,0 +1,62 @@
+.blog {
+
+}
+
+.blog-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #1E0606;
+}
+
+.blog-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    padding-right: 20px;
+}
+
+.blog-post {
+
+}
+
+.blog-post-image {
+
+}
+
+.blog-post-date {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #818181;
+    mix-blend-mode: normal;
+}
+
+.blog-link {
+    
+}
+
+.blog-post-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 31px;
+    color: #1E0606;
+}
+
+.blog-post-title:
+
+.blog-post-content {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #1E0606;
+}
+
