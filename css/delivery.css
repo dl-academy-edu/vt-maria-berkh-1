@@ -1,0 +1,69 @@
+.delivery {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.delivery-content {
+    margin-left: 60px;
+    padding-left: 60px;
+}
+
+.delivery-title {
+    font-family: Montserrat, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    color: #1E0606;
+}
+
+.delivery-button-activ {
+    margin-top: 17px;
+    font-family: Crimson Text, Arial, sans-serif, cursive;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 32px;
+
+    color: #1E0606;
+    background: rgba(112, 187, 220, 0.2);
+}
+
+.delivery-button {
+    margin-top: 22px;
+    font-family: Crimson Text, Arial, sans-serif, cursive;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1E0606;
+}
+
+.delivery-description,
+.delivery-description-paragraph {
+    margin-top: 30px;
+    font-family: Open Sans, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1E0606;
+}
+
+.delivery-description-paragraph {
+    margin-top: 15px;
+}
+
+.delivery-link {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.delivery-image {
+    width:480px;
+    height:559px;
+}
